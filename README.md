@@ -28,3 +28,6 @@ Have an addon you would like to be included - let me know by email tim (at) imag
 ### Please note: This library references remote repos, if the source field files are removed or replaced this plugin must be updated with the new source repos. Upon updating you may need to update and refresh your active fields if a repo is failing to activate
 
 ~Current Version:1.0~
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/netconstructor/acf-addons/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
